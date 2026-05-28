@@ -64902,7 +64902,7 @@ r=o.d
 r=A.c0("Flutter & Mobile/Web Developer",p,p,r==null?p:r.e7(B.h))
 o=o.y
 q=t.F
-return A.hb(A.c([new A.eJ(n,B.zP,999,!1,p),B.bq,s,B.iG,new A.FG(new A.ST(),r,p),B.bq,A.c0("Ex-Engineering Lead at Persistent Systems, building practical mobile and web products with Flutter.",p,p,o==null?p:o.e7(B.h.bD(0.84))),B.Ii,A.n0(A.c([A.aoH(!1,B.Ni,B.y,p,p,p,p,p,this.d,p,p),A.aqf(!1,B.Ne,p,p,p,p,p,p,this.e,p,p)],q),14,14),B.Ih,A.n0(A.c([new A.pQ("Experience","6+ yrs",p),new A.pQ("Projects","8+ apps",p),new A.pQ("Focus","Mobile Apps",p)],q),12,12)],q),B.a9)}}
+return A.hb(A.c([new A.eJ(n,B.zP,999,!1,p),B.bq,s,B.iG,new A.FG(new A.ST(),r,p),B.bq,A.c0("Ex-Engineering Lead at Persistent Systems, building practical mobile and web products with Flutter.",p,p,o==null?p:o.e7(B.h.bD(0.84))),B.Ii,A.n0(A.c([A.aoH(!1,B.Ni,B.y,p,p,p,p,p,this.d,p,p),A.aqf(!1,B.Ne,p,p,p,p,p,p,this.e,p,p)],q),14,14),B.Ih,A.n0(A.c([new A.pQ("Experience","6+ yrs",p),new A.pQ("Projects","20+ apps",p),new A.pQ("Focus","Mobile Apps",p)],q),12,12)],q),B.a9)}}
 A.ST.prototype={
 $1(a){return B.AV.a2o(a)},
 $S:429}
